@@ -1,0 +1,74 @@
+{
+  "Apple Scab": {
+    "Explanation": "Apple scab is caused by the fungus Venturia inaequalis. It affects leaves, fruit, and sometimes young twigs, leading to unsightly, scabby lesions on the fruit.",
+    "Artificial Treatment": [
+      "Use fungicides such as captan, mancozeb, or myclobutanil. Apply at regular intervals starting from the green tip stage until the fruit is harvested.",
+      "Systemic fungicides can also be effective and provide longer protection."
+    ],
+    "Organic Treatment": [
+      "Use resistant apple varieties.",
+      "Apply sulfur or lime sulfur sprays during the growing season.",
+      "Implement good sanitation practices, such as removing fallen leaves and pruning infected twigs to reduce inoculum sources."
+    ]
+  },
+  "Grape Black Rot": {
+    "Explanation": "Grape black rot is caused by the fungus Guignardia bidwellii. It affects all green parts of the vine, resulting in black lesions and mummified berries.",
+    "Artificial Treatment": [
+      "Use fungicides like myclobutanil, mancozeb, or azoxystrobin, starting in the early growing season and continuing at 10-14 day intervals until veraison.",
+      "Ensure thorough coverage of all plant parts."
+    ],
+    "Organic Treatment": [
+      "Plant resistant grape varieties.",
+      "Apply copper-based or sulfur-based fungicides.",
+      "Practice good vineyard sanitation, such as removing mummified berries and pruning infected plant parts."
+    ]
+  },
+  "Potato Late Blight": {
+    "Explanation": "Late blight in potatoes is caused by the oomycete Phytophthora infestans. It leads to brown, water-soaked lesions on leaves and tubers, which can cause significant yield loss.",
+    "Artificial Treatment": [
+      "Apply fungicides like chlorothalonil, mancozeb, or metalaxyl at the first sign of disease and continue as recommended.",
+      "Use resistant potato varieties."
+    ],
+    "Organic Treatment": [
+      "Apply copper-based fungicides as a preventative measure.",
+      "Practice crop rotation and plant disease-free seed potatoes.",
+      "Remove and destroy infected plant debris."
+    ]
+  },
+  "Tomato Septoria Leaf Spot": {
+    "Explanation": "Septoria leaf spot, caused by Septoria lycopersici, affects tomato plants by creating small, dark spots with gray centers on the leaves, leading to defoliation and reduced yields.",
+    "Artificial Treatment": [
+      "Use fungicides such as chlorothalonil or mancozeb, applied at regular intervals starting from the first sign of disease.",
+      "Ensure proper plant spacing for good air circulation."
+    ],
+    "Organic Treatment": [
+      "Apply copper-based fungicides as a preventive measure.",
+      "Remove and destroy infected leaves to reduce inoculum.",
+      "Mulch to prevent soil splash and practice crop rotation."
+    ]
+  },
+  "Corn (Maize) Northern Leaf Blight": {
+    "Explanation": "Northern leaf blight is caused by the fungus Exserohilum turcicum. It produces long, gray-green lesions on the leaves, which can reduce photosynthesis and yield.",
+    "Artificial Treatment": [
+      "Apply fungicides like azoxystrobin or propiconazole at the first sign of disease and repeat as necessary.",
+      "Plant resistant hybrids."
+    ],
+    "Organic Treatment": [
+      "Use resistant varieties.",
+      "Apply neem oil or compost teas to boost plant health.",
+      "Rotate crops and practice good field sanitation."
+    ]
+  },
+  "Peach Bacterial Spot": {
+    "Explanation": "Bacterial spot on peaches is caused by Xanthomonas campestris pv. pruni. It results in small, dark, water-soaked spots on leaves, fruit, and twigs.",
+    "Artificial Treatment": [
+      "Use bactericides containing copper or oxytetracycline, starting at bloom and continuing at regular intervals.",
+      "Ensure proper tree spacing and pruning for good air circulation."
+    ],
+    "Organic Treatment": [
+      "Apply copper-based sprays as a preventative measure.",
+      "Plant resistant varieties.",
+      "Implement good sanitation practices, such as removing infected plant parts and avoiding overhead irrigation."
+    ]
+  }
+}
